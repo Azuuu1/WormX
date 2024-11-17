@@ -1,4 +1,3 @@
-# WormX
 
 
 ![wormx logo](https://github.com/user-attachments/assets/b083514a-0d81-46a1-a9c0-45259d926314)
