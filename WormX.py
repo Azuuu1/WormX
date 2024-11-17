@@ -74,7 +74,7 @@ def main():
 
     if File_Execution:
         for file in FILE_PATHS:
-            subprocess.call([file])  # Assuming `file` contains the path and executable name.
+            subprocess.call([file])  
         else:
             pass
     if TEST_MODE == True:
