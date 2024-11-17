@@ -1,5 +1,13 @@
 # WormX
-WormX is an advanced spreading worm made in python
+
+
+![wormx logo](https://github.com/user-attachments/assets/b083514a-0d81-46a1-a9c0-45259d926314)
+
+
+
+
+
+<div align="center">WormX is an advanced spreading worm made in python</div>
 <div align="center">
     <img src="https://img.shields.io/github/languages/top/Azuuu1/WormX?color=%23000000">
     <img src="https://img.shields.io/github/stars/Azuuu1/WormX?color=%23000000&logoColor=%23000000">
@@ -12,6 +20,8 @@ WormX is an advanced spreading worm made in python
     <br>
 
 </div>
+
+
 
 # Features:
 ```
